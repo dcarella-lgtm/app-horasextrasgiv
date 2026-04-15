@@ -1,0 +1,12 @@
+{
+  "name": "app-horas-backend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node api/process.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-latest/xlsx-latest.tgz"
+  }
+}
